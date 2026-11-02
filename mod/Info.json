@@ -1,0 +1,12 @@
+{
+  "identifier": "londospark/taa",
+  "name": "Anti-Aliasing Options (TAA / SMAA / FXAA / supersampling)",
+  "author": "LondoSpark",
+  "version": "2.0.0",
+  "url": "https://github.com/londospark/railroader-antialiasing",
+  "description": "Adds TAA (with stability presets), SMAA, FXAA, MSAA control and supersampling to tame shimmering rails. Hotkeys: F10 mode, F11 TAA stability, Shift+F10 MSAA, Shift+F11 supersampling.",
+  "license": "MIT",
+  "scope": "client",
+  "dependencies": { "required": ["rr/game"] },
+  "assemblies": ["RailroaderTaa.dll"]
+}

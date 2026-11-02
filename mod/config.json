@@ -1,0 +1,15 @@
+{
+    "enabled": true,
+    "mode": "taa",
+    "renderScale": 1.0,
+    "taaPreset": "stable",
+    "taaJitterScale": 1.0,
+    "msaa": 2,
+    "detachCameraStack": false,
+    "taaQuality": 3,
+    "taaBaseBlendFactor": 0.1,
+    "taaVarianceClampScale": 0.9,
+    "taaSharpening": 0.5,
+    "smaaQuality": 2,
+    "showOverlay": true
+}
